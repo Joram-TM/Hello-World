@@ -6,6 +6,5 @@ int main(){
     std::cin>> a;
     float d=a*2;
     std::cout << d<<std::endl;
-    std::cin>>d;
     return 0;
 }
