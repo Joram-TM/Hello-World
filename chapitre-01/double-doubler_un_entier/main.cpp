@@ -1,10 +1,9 @@
 #include <iostream>
 
 int main(){
-    int a,b;
-    std::cout <<"entrer un nombre"<<std::endl;
+    int a,d;
     std::cin>> a;
-    int d=a*2;
+    d=a*2;
     std::cout << d<<std::endl;
     return 0;
 }
